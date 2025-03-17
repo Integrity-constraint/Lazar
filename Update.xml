@@ -3,5 +3,5 @@
     <version>1.0.3</version>
     <url>https://github.com/Integrity-constraint/Lazar/releases/download/v1.0.3/ArsVisual.zip</url>
     <changelog>https://github.com/Integrity-constraint/Lazar/releases/tag/v1.0.3</changelog>
-    <mandatory>false</mandatory>
+   <mandatory>true</mandatory>
 </item>
